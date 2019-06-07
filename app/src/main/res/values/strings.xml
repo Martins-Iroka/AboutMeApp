@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ikechukwu Iroka</string>
+    <string name="yellow_star">Yellow_star</string>
+    <string name="learner">Hello, my name is Ikechukwu Iroka. I am an android developer
+    who is currently learning Kotlin in other to improve my skill.
+        \nKotlin is such a wonderful language to learn because it really gets reed of a lot of
+    boilerplate in Java. I am really happy though that i learnt Java because its not so difficult
+    understanding Kotlin since its OOP inclined. \nKotlin indeed is a modern language.
+        The designers need to be praise for focusing their mind on readability.
+        Normally, I should be looking for a book that explains Kotlin from the very basics.
+    But I am not. All am doing is to read Kotlin code, if I see an unfamiliar syntax, I read it up.
+        \nSuch a delight learning Kotlin and I hope to improve in it.</string>
+    <string name="what_is_your_nickname">What is your nick name</string>
+    <string name="done_button">Done</string>
+</resources>
